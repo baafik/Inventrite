@@ -1,0 +1,16 @@
+C:\Users\baafi\source\repos\InventRite\InventRite\bin\Debug\InventRite.exe.config
+C:\Users\baafi\source\repos\InventRite\InventRite\bin\Debug\InventRite.exe
+C:\Users\baafi\source\repos\InventRite\InventRite\bin\Debug\InventRite.pdb
+C:\Users\baafi\source\repos\InventRite\InventRite\obj\Debug\InventRite.csproj.AssemblyReference.cache
+C:\Users\baafi\source\repos\InventRite\InventRite\obj\Debug\InventRite.csproj.SuggestedBindingRedirects.cache
+C:\Users\baafi\source\repos\InventRite\InventRite\obj\Debug\InventRite.Login1.resources
+C:\Users\baafi\source\repos\InventRite\InventRite\obj\Debug\InventRite.Properties.Resources.resources
+C:\Users\baafi\source\repos\InventRite\InventRite\obj\Debug\InventRite.csproj.GenerateResource.cache
+C:\Users\baafi\source\repos\InventRite\InventRite\obj\Debug\InventRite.csproj.CoreCompileInputs.cache
+C:\Users\baafi\source\repos\InventRite\InventRite\obj\Debug\InventRite.exe
+C:\Users\baafi\source\repos\InventRite\InventRite\obj\Debug\InventRite.pdb
+C:\Users\baafi\source\repos\InventRite\InventRite\obj\Debug\InventRite.CustomerButton.resources
+C:\Users\baafi\source\repos\InventRite\InventRite\obj\Debug\InventRite.Form1.resources
+C:\Users\baafi\source\repos\InventRite\InventRite\obj\Debug\InventRite.MainForm.resources
+C:\Users\baafi\source\repos\InventRite\InventRite\obj\Debug\InventRite.UserForm.resources
+C:\Users\baafi\source\repos\InventRite\InventRite\obj\Debug\InventRite.UserModuleForm.resources
